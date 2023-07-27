@@ -1,0 +1,70 @@
+.root {
+
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #bf9ce5;
+
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 1rem;
+    list-style-type: none;
+
+    padding-right: 1.5rem;
+}
+
+li {
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+main {
+    padding: 1rem
+}
+
+.macrot {
+}
+
+.current {
+}
+
+.addfood {
+    margin-block: 1rem;
+}
+
+table {
+    width: 60%;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+tr {
+    table-border-color-dark: black;
+
+}
+
+.inputti {
+
+}
+
+h4 {
+    margin-block: 1rem;
+}
